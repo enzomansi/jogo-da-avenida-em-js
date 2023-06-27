@@ -1,2 +1,2 @@
 # pingpong-em-js
-Jogo de Ping Pong como o do Atari, feito em JavaScript
+Jogo de atravessar a avenida, como o do Atari, feito em JavaScript.
